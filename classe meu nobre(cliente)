@@ -31,4 +31,4 @@ def getEndereco(self):
 
 
 def imprimir(self):
-    return print('nome', self.nome, 'endereço', self.endereco)
+    return print('Nome', self.nome, 'Endereço', self.endereco)
