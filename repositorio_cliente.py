@@ -29,6 +29,6 @@ class RepositorioCliente:
             else:
                 self._clientes.pop()
                 print("Cliente apagado")
-    def listar(self):
+    def listar(self): 
           return self._clientes
  
